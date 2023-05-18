@@ -1,0 +1,19 @@
+#contain {
+    display: inline-block;
+
+   
+}
+
+.card_body {
+    text-align:left;
+
+}
+
+#button1 {
+    background-color: sandybrown;
+
+}
+
+#button2 {
+    background-color: darkgrey;
+}
